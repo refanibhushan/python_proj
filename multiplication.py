@@ -4,6 +4,7 @@ def multiply(num1, num2):
     and returns the result of their multiplicaiton
     :param num1:
     :param num2:
-    :return:
+    :return: 
+    
     """
     return num1 * num2
